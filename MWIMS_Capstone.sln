@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWIMS_Capstone", "MWIMS_Capstone\MWIMS_Capstone.csproj", "{FCC49BA2-7E04-4085-A651-097B855AB080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC49BA2-7E04-4085-A651-097B855AB080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC49BA2-7E04-4085-A651-097B855AB080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC49BA2-7E04-4085-A651-097B855AB080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC49BA2-7E04-4085-A651-097B855AB080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B919A0AE-0490-4E04-80DF-42A7CF562DB6}
+	EndGlobalSection
+EndGlobal
